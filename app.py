@@ -2,7 +2,8 @@
 
 # Les bibliotheques
 import streamlit as st
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
+import matplotlib as plt
 import seaborn as sns
 import pandas as pd
 
